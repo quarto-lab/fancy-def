@@ -1,0 +1,13 @@
+---
+title: "test-doc"
+format:
+  html:
+    theme: styles.scss
+---
+
+this is an example of a defintion for *probability*.
+
+Probability
+  ~ A number between 0 and 1.
+
+huh. did it work?
